@@ -24,7 +24,6 @@
           log_contains: id "942150"
   - 
     test_title: 942150-2
-    desc: "FIXME"
     desc: "Simple SQL injection"
     stages:
     - 
@@ -42,7 +41,6 @@
           log_contains: id "942150"
   - 
     test_title: 942150-3
-    desc: "FIXME"
     desc: "Simple SQL injection"
     stages:
     - 
@@ -60,7 +58,6 @@
           log_contains: id "942150"
   - 
     test_title: 942150-4
-    desc: "FIXME"
     desc: "Advanced SQL injection"
     stages:
     - 
@@ -78,7 +75,6 @@
           log_contains: id "942150"
   - 
     test_title: 942150-5
-    desc: "FIXME"
     stages:
     - 
       stage:
@@ -112,7 +108,6 @@
           log_contains: id "942150"
   - 
     test_title: 942150-7
-    desc: "FIXME"
     desc: "Simple SQL injection"
     stages:
     - 
